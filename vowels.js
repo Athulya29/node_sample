@@ -11,5 +11,5 @@ function vowels(string){
 }
 vowels("athulya");
 vowels("shiva");
-vowels("Apple");
+vowels("apple");
 
