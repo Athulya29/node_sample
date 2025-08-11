@@ -18,4 +18,4 @@ function fibonacci(n){
     }  
 }
 }
-fibonacci(10)
+fibonacci(3)

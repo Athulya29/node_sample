@@ -7,9 +7,7 @@ function secondLargest(arr){
             maxElement=arr[i];
             
         }
-            
-       
     }
    console.log(secondLarge)
 }
-secondLargest([2,67,32,12,34,89]);
+secondLargest([67,32,12,34]);
