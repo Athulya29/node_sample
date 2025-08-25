@@ -9,7 +9,7 @@ app.get("/getAllUsers",(req,res)=>{
 
 
 app.post("/insertUser",(req,res)=>{
-   let name=req.query.name;
+   let name=req.query.name;  //receive data from query
    let index=users.indexOf(name);
    if(index==-1 && name.trim().length>0 ){
     users.push(name)

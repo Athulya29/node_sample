@@ -1,9 +1,9 @@
 {
   "name": "express-learn",
   "version": "1.0.0",
-  "main": "user_management.js",
+  "main": "validation.js",
   "scripts": {
-    "start": "nodemon user_management.js",
+    "start": "nodemon validation.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
